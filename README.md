@@ -48,7 +48,9 @@ Start the server
 npm run start
 ~~~
 
+## Author  
 
+@[ananya](https://github.com/104ananya)
 
 ## Acknowledgements  
 
