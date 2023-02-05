@@ -50,9 +50,9 @@ npm run start
 
 ## Author  
 
-@[ananya](https://github.com/104ananya)
+[ananya](https://github.com/104ananya)
 
 ## Acknowledgements  
 
-@[adrianhajdin](https://github.com/adrianhajdin)
+[adrianhajdin](https://github.com/adrianhajdin)
 
